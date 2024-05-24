@@ -56,7 +56,8 @@ async function getPredictHistoriesHandler(request, h) {
       status: "success",
       data: histories,
     })
-    .code(200);
+  
+  response.code(200);
 
   return response;
 }
