@@ -1,0 +1,1 @@
+A website app that provides service to the user to pedict either they are suffered by cancer or not. System provides an image input field that can be used by the user to upload the image of their suspected symptomps that correlates with cancer. 
